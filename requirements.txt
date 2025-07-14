@@ -1,0 +1,7 @@
+pandas
+textblob
+nltk
+matplotlib
+seaborn
+wordcloud
+pysrt
